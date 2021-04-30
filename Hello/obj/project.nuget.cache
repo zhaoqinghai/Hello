@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "nfeyBkhmveawwplirPCXDjUgYxicPcWuGKdFyXMN3LLf20eABOwNd3VT655cnNw09hDulDBVq7zgWeKit4TH7A==",
+  "success": true,
+  "projectFilePath": "/Users/wsl/Projects/Hello/Hello/Hello.csproj",
+  "expectedPackageFiles": [
+    "/Users/wsl/.nuget/packages/aspectcore.extensions.reflection/2.2.0/aspectcore.extensions.reflection.2.2.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.caching.abstractions/3.0.0/microsoft.extensions.caching.abstractions.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.caching.memory/3.0.0/microsoft.extensions.caching.memory.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.configuration/3.0.0/microsoft.extensions.configuration.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.configuration.abstractions/3.0.0/microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.configuration.binder/3.0.0/microsoft.extensions.configuration.binder.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.14/microsoft.extensions.dependencyinjection.3.1.14.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.14/microsoft.extensions.dependencyinjection.abstractions.3.1.14.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.http/3.0.0/microsoft.extensions.http.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.logging/3.0.0/microsoft.extensions.logging.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.0/microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.options/3.0.0/microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.options.configurationextensions/3.0.0/microsoft.extensions.options.configurationextensions.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/microsoft.extensions.primitives/3.0.0/microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/system.componentmodel.annotations/4.6.0/system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/webapiclientcore/2.0.1/webapiclientcore.2.0.1.nupkg.sha512",
+    "/Users/wsl/.nuget/packages/webapiclientcore.abstractions/2.0.1/webapiclientcore.abstractions.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
